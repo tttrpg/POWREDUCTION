@@ -595,7 +595,7 @@ section.what_you {
 
 /*-- //agile-about --*/
 .w3layouts_bottom {
-    background: url(../images/3.jpg) no-repeat 0px 0px;
+    background: url(../images/3.jpg) no-repeat center center;
     text-align: center;
     background-size: cover;
     -webkit-background-size: cover;
